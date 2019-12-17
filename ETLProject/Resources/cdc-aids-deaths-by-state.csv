@@ -1,0 +1,841 @@
+indicator,year,geography,fips,race,sex,age_group,misc,rate,cases,population
+AIDS deaths,2000,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.2,263,3649040
+AIDS deaths,2000,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,13,492320
+AIDS deaths,2000,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,37866
+AIDS deaths,2000,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.9,205,4157297
+AIDS deaths,2000,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,82,2193844
+AIDS deaths,2000,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7,1896,27183676
+AIDS deaths,2000,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,116,3530430
+AIDS deaths,2000,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.2,313,2795939
+AIDS deaths,2000,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.2,98,645214
+AIDS deaths,2000,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,75.8,368,485304
+AIDS deaths,2000,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,17.4,2334,13420555
+AIDS deaths,2000,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.1,803,6642424
+AIDS deaths,2000,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,1,113718
+AIDS deaths,2000,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.9,39,998603
+AIDS deaths,2000,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,13,1037896
+AIDS deaths,2000,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.6,670,10080955
+AIDS deaths,2000,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,159,4957454
+AIDS deaths,2000,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,30,2412252
+AIDS deaths,2000,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,32,2186722
+AIDS deaths,2000,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,92,3335999
+AIDS deaths,2000,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.6,454,3610682
+AIDS deaths,2000,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,21,1068500
+AIDS deaths,2000,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16.6,719,4325451
+AIDS deaths,2000,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.1,320,5270519
+AIDS deaths,2000,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,352,8085123
+AIDS deaths,2000,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,92,4022624
+AIDS deaths,2000,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8,183,2296180
+AIDS deaths,2000,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,202,4590356
+AIDS deaths,2000,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,7,745797
+AIDS deaths,2000,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,31,1396382
+AIDS deaths,2000,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.4,121,1634059
+AIDS deaths,2000,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,20,1019355
+AIDS deaths,2000,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.3,1058,6898878
+AIDS deaths,2000,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,45,1461381
+AIDS deaths,2000,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,20,3121,15595556
+AIDS deaths,2000,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.5,364,6637885
+AIDS deaths,2000,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,7,531381
+AIDS deaths,2000,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,55861
+AIDS deaths,2000,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,250,9296192
+AIDS deaths,2000,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.5,126,2823517
+AIDS deaths,2000,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,81,2826917
+AIDS deaths,2000,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.9,708,10212120
+AIDS deaths,2000,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,25.3,768,3029858
+AIDS deaths,2000,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.1,53,870992
+AIDS deaths,2000,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9,296,3296398
+AIDS deaths,2000,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.5,3,615275
+AIDS deaths,2000,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.8,317,4692938
+AIDS deaths,2000,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.6,1269,16668002
+AIDS deaths,2000,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.5,8,84300
+AIDS deaths,2000,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,41,1725119
+AIDS deaths,2000,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,7,507693
+AIDS deaths,2000,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,351,5845015
+AIDS deaths,2000,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,174,4827518
+AIDS deaths,2000,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,24,1526143
+AIDS deaths,2000,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,103,4412228
+AIDS deaths,2000,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,5,406801
+AIDS deaths,2001,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.9,288,3662760
+AIDS deaths,2001,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,11,500128
+AIDS deaths,2001,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,38710
+AIDS deaths,2001,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.8,203,4269156
+AIDS deaths,2001,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,84,2206650
+AIDS deaths,2001,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7,1937,27639962
+AIDS deaths,2001,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,132,3618563
+AIDS deaths,2001,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.5,295,2816060
+AIDS deaths,2001,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.2,93,653251
+AIDS deaths,2001,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,73.9,362,490148
+AIDS deaths,2001,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16,2188,13685697
+AIDS deaths,2001,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12,814,6792178
+AIDS deaths,2001,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,3,115963
+AIDS deaths,2001,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.9,39,1007675
+AIDS deaths,2001,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,12,1056451
+AIDS deaths,2001,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.6,668,10149504
+AIDS deaths,2001,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,180,4987767
+AIDS deaths,2001,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,30,2416480
+AIDS deaths,2001,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,57,2197705
+AIDS deaths,2001,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,121,3355536
+AIDS deaths,2001,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.5,488,3611255
+AIDS deaths,2001,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,18,1078965
+AIDS deaths,2001,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,18,788,4388323
+AIDS deaths,2001,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.9,366,5321763
+AIDS deaths,2001,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,354,8145957
+AIDS deaths,2001,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,66,4072246
+AIDS deaths,2001,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.1,233,2302483
+AIDS deaths,2001,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,203,4629373
+AIDS deaths,2001,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,7,750912
+AIDS deaths,2001,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,45,1402199
+AIDS deaths,2001,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.8,98,1695164
+AIDS deaths,2001,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,16,1036269
+AIDS deaths,2001,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.9,1038,6957089
+AIDS deaths,2001,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,47,1473887
+AIDS deaths,2001,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,19.1,2999,15707834
+AIDS deaths,2001,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.8,393,6738139
+AIDS deaths,2001,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,6,529803
+AIDS deaths,2001,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,58080
+AIDS deaths,2001,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,258,9338793
+AIDS deaths,2001,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,105,2836102
+AIDS deaths,2001,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,92,2864127
+AIDS deaths,2001,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7,722,10246758
+AIDS deaths,2001,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,26.3,806,3059068
+AIDS deaths,2001,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.1,45,879198
+AIDS deaths,2001,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11,367,3332831
+AIDS deaths,2001,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,6,619560
+AIDS deaths,2001,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.4,352,4739081
+AIDS deaths,2001,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.8,1327,16977931
+AIDS deaths,2001,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.9,5,85163
+AIDS deaths,2001,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,26,1762207
+AIDS deaths,2001,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,8,512075
+AIDS deaths,2001,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.4,322,5924732
+AIDS deaths,2001,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.4,165,4903837
+AIDS deaths,2001,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,36,1520887
+AIDS deaths,2001,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,99,4451651
+AIDS deaths,2001,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,4,407482
+AIDS deaths,2002,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7,258,3676368
+AIDS deaths,2002,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,22,510199
+AIDS deaths,2002,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,39577
+AIDS deaths,2002,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.9,213,4390388
+AIDS deaths,2002,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,98,2220736
+AIDS deaths,2002,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.4,1788,28026577
+AIDS deaths,2002,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,135,3680890
+AIDS deaths,2002,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.6,301,2840219
+AIDS deaths,2002,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.3,88,662439
+AIDS deaths,2002,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,70.2,345,491442
+AIDS deaths,2002,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16.4,2296,13975036
+AIDS deaths,2002,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.7,741,6927931
+AIDS deaths,2002,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,1,118261
+AIDS deaths,2002,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,44,1018047
+AIDS deaths,2002,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,15,1074802
+AIDS deaths,2002,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.7,681,10208110
+AIDS deaths,2002,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,174,5015786
+AIDS deaths,2002,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,34,2421387
+AIDS deaths,2002,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,50,2210646
+AIDS deaths,2002,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,121,3378471
+AIDS deaths,2002,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13,472,3624180
+AIDS deaths,2002,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,23,1090852
+AIDS deaths,2002,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,18.8,836,4453270
+AIDS deaths,2002,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.7,303,5360534
+AIDS deaths,2002,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,335,8197129
+AIDS deaths,2002,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,73,4113120
+AIDS deaths,2002,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.8,203,2311524
+AIDS deaths,2002,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.9,184,4669833
+AIDS deaths,2002,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,11,756734
+AIDS deaths,2002,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,31,1409289
+AIDS deaths,2002,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,105,1753069
+AIDS deaths,2002,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,16,1052153
+AIDS deaths,2002,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.5,1087,7014867
+AIDS deaths,2002,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,55,1495584
+AIDS deaths,2002,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,18.3,2900,15811518
+AIDS deaths,2002,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,407,6835653
+AIDS deaths,2002,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.4,2,529457
+AIDS deaths,2002,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,60350
+AIDS deaths,2002,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,286,9383766
+AIDS deaths,2002,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,104,2854337
+AIDS deaths,2002,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,104,2909824
+AIDS deaths,2002,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.5,770,10297843
+AIDS deaths,2002,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,24.1,746,3089506
+AIDS deaths,2002,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,42,888037
+AIDS deaths,2002,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.9,367,3374298
+AIDS deaths,2002,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,7,624064
+AIDS deaths,2002,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.2,391,4786119
+AIDS deaths,2002,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.7,1326,17282042
+AIDS deaths,2002,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.8,11,85959
+AIDS deaths,2002,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,36,1797806
+AIDS deaths,2002,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,5,517188
+AIDS deaths,2002,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.6,336,6008506
+AIDS deaths,2002,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,158,4974675
+AIDS deaths,2002,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,39,1523049
+AIDS deaths,2002,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,100,4496002
+AIDS deaths,2002,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,3,411397
+AIDS deaths,2003,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.7,248,3701630
+AIDS deaths,2003,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,5,519682
+AIDS deaths,2003,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,40487
+AIDS deaths,2003,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.3,241,4506957
+AIDS deaths,2003,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4,89,2238799
+AIDS deaths,2003,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.4,1807,28413343
+AIDS deaths,2003,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,122,3721690
+AIDS deaths,2003,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.5,301,2865678
+AIDS deaths,2003,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.9,107,673153
+AIDS deaths,2003,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,76.9,378,491773
+AIDS deaths,2003,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16.5,2351,14253456
+AIDS deaths,2003,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.8,763,7055209
+AIDS deaths,2003,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,4,120622
+AIDS deaths,2003,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,37,1029175
+AIDS deaths,2003,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,16,1094712
+AIDS deaths,2003,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.4,655,10266174
+AIDS deaths,2003,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,165,5054339
+AIDS deaths,2003,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,32,2429272
+AIDS deaths,2003,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,66,2222213
+AIDS deaths,2003,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,92,3406044
+AIDS deaths,2003,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.1,513,3638940
+AIDS deaths,2003,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,21,1103006
+AIDS deaths,2003,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,19.5,882,4514730
+AIDS deaths,2003,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,322,5388168
+AIDS deaths,2003,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.9,324,8255625
+AIDS deaths,2003,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,77,4151569
+AIDS deaths,2003,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10,233,2324291
+AIDS deaths,2003,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.2,200,4709970
+AIDS deaths,2003,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,6,765173
+AIDS deaths,2003,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,26,1418411
+AIDS deaths,2003,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.3,133,1813322
+AIDS deaths,2003,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,20,1066193
+AIDS deaths,2003,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.2,931,7063290
+AIDS deaths,2003,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,71,1517325
+AIDS deaths,2003,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,18.3,2908,15926650
+AIDS deaths,2003,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.4,445,6924400
+AIDS deaths,2003,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,8,530557
+AIDS deaths,2003,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,62677
+AIDS deaths,2003,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,273,9433101
+AIDS deaths,2003,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,110,2868825
+AIDS deaths,2003,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4,118,2946163
+AIDS deaths,2003,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.9,716,10356890
+AIDS deaths,2003,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,21.2,661,3122955
+AIDS deaths,2003,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.4,48,895585
+AIDS deaths,2003,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.8,336,3419249
+AIDS deaths,2003,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.3,2,629905
+AIDS deaths,2003,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.3,351,4837552
+AIDS deaths,2003,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.1,1253,17566043
+AIDS deaths,2003,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.8,12,86709
+AIDS deaths,2003,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,21,1834149
+AIDS deaths,2003,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,7,521074
+AIDS deaths,2003,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.6,342,6093344
+AIDS deaths,2003,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4,202,5037673
+AIDS deaths,2003,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,43,1527546
+AIDS deaths,2003,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,96,4535759
+AIDS deaths,2003,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,5,414034
+AIDS deaths,2004,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.8,254,3725740
+AIDS deaths,2004,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,11,531838
+AIDS deaths,2004,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,41493
+AIDS deaths,2004,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.4,253,4646226
+AIDS deaths,2004,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.2,95,2260440
+AIDS deaths,2004,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.4,1831,28751763
+AIDS deaths,2004,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,126,3771348
+AIDS deaths,2004,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.3,297,2879604
+AIDS deaths,2004,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.4,92,684526
+AIDS deaths,2004,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,74.5,369,495199
+AIDS deaths,2004,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16.4,2400,14601930
+AIDS deaths,2004,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.4,825,7207149
+AIDS deaths,2004,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,3,123018
+AIDS deaths,2004,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.3,55,1042212
+AIDS deaths,2004,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,7,1118512
+AIDS deaths,2004,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.8,603,10329277
+AIDS deaths,2004,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,155,5088538
+AIDS deaths,2004,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,32,2440390
+AIDS deaths,2004,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,37,2233119
+AIDS deaths,2004,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,99,3437780
+AIDS deaths,2004,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.3,486,3658664
+AIDS deaths,2004,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,23,1110432
+AIDS deaths,2004,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,17,774,4564536
+AIDS deaths,2004,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,323,5405149
+AIDS deaths,2004,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,306,8305095
+AIDS deaths,2004,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,72,4185808
+AIDS deaths,2004,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.4,219,2342053
+AIDS deaths,2004,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.5,214,4755256
+AIDS deaths,2004,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,5,774848
+AIDS deaths,2004,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,17,1425825
+AIDS deaths,2004,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.4,120,1888681
+AIDS deaths,2004,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,15,1080347
+AIDS deaths,2004,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.1,931,7100059
+AIDS deaths,2004,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,36,1539356
+AIDS deaths,2004,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16.8,2696,16034424
+AIDS deaths,2004,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.7,398,7030521
+AIDS deaths,2004,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,6,534859
+AIDS deaths,2004,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,64979
+AIDS deaths,2004,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,258,9473030
+AIDS deaths,2004,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,92,2886303
+AIDS deaths,2004,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,96,2973801
+AIDS deaths,2004,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.1,737,10406537
+AIDS deaths,2004,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,21.3,671,3153337
+AIDS deaths,2004,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.1,46,898544
+AIDS deaths,2004,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.5,331,3474605
+AIDS deaths,2004,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,5,636806
+AIDS deaths,2004,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.6,372,4896355
+AIDS deaths,2004,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.6,1366,17859437
+AIDS deaths,2004,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16,14,87445
+AIDS deaths,2004,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,44,1878925
+AIDS deaths,2004,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,9,524697
+AIDS deaths,2004,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.1,313,6179207
+AIDS deaths,2004,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,169,5107379
+AIDS deaths,2004,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,48,1529376
+AIDS deaths,2004,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,76,4576243
+AIDS deaths,2004,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,4,417898
+AIDS deaths,2005,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.1,231,3757364
+AIDS deaths,2005,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,9,540712
+AIDS deaths,2005,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,42528
+AIDS deaths,2005,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.2,202,4819270
+AIDS deaths,2005,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,99,2285144
+AIDS deaths,2005,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,1728,29035385
+AIDS deaths,2005,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,139,3824082
+AIDS deaths,2005,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9,261,2890681
+AIDS deaths,2005,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.8,103,696358
+AIDS deaths,2005,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,68,339,498862
+AIDS deaths,2005,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.8,2356,14951599
+AIDS deaths,2005,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.5,847,7351551
+AIDS deaths,2005,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,1,125501
+AIDS deaths,2005,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,29,1056986
+AIDS deaths,2005,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,16,1145422
+AIDS deaths,2005,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.2,646,10375107
+AIDS deaths,2005,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,161,5126419
+AIDS deaths,2005,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,31,2450075
+AIDS deaths,2005,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,46,2244928
+AIDS deaths,2005,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,93,3470442
+AIDS deaths,2005,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.2,523,3671779
+AIDS deaths,2005,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,17,1116471
+AIDS deaths,2005,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,17.9,826,4610293
+AIDS deaths,2005,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.6,302,5421895
+AIDS deaths,2005,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,306,8335460
+AIDS deaths,2005,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,67,4215745
+AIDS deaths,2005,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.3,220,2356453
+AIDS deaths,2005,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,184,4802739
+AIDS deaths,2005,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,14,783936
+AIDS deaths,2005,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,27,1434890
+AIDS deaths,2005,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.9,135,1954337
+AIDS deaths,2005,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,15,1091153
+AIDS deaths,2005,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.3,880,7125713
+AIDS deaths,2005,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,50,1562245
+AIDS deaths,2005,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16.4,2642,16115032
+AIDS deaths,2005,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,428,7145354
+AIDS deaths,2005,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,7,534635
+AIDS deaths,2005,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,56699
+AIDS deaths,2005,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,299,9505295
+AIDS deaths,2005,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,118,2902250
+AIDS deaths,2005,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,91,3016649
+AIDS deaths,2005,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,631,10454032
+AIDS deaths,2005,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,21.6,688,3182048
+AIDS deaths,2005,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,37,896408
+AIDS deaths,2005,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9,317,3525810
+AIDS deaths,2005,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,6,642082
+AIDS deaths,2005,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.4,369,4966590
+AIDS deaths,2005,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.2,1304,18170075
+AIDS deaths,2005,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.5,11,88210
+AIDS deaths,2005,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,42,1925007
+AIDS deaths,2005,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,10,527289
+AIDS deaths,2005,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5,316,6265336
+AIDS deaths,2005,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,193,5185697
+AIDS deaths,2005,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,33,1531553
+AIDS deaths,2005,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,95,4611832
+AIDS deaths,2005,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,8,420863
+AIDS deaths,2006,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.7,254,3803743
+AIDS deaths,2006,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,16,548320
+AIDS deaths,2006,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,43548
+AIDS deaths,2006,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,218,4992176
+AIDS deaths,2006,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,99,2316835
+AIDS deaths,2006,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.8,1689,29255213
+AIDS deaths,2006,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,128,3901664
+AIDS deaths,2006,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.7,223,2905373
+AIDS deaths,2006,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.7,97,708345
+AIDS deaths,2006,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,64.6,324,501904
+AIDS deaths,2006,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.8,2405,15209155
+AIDS deaths,2006,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.6,801,7541296
+AIDS deaths,2006,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,2,127974
+AIDS deaths,2006,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,38,1067223
+AIDS deaths,2006,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,9,1175924
+AIDS deaths,2006,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.7,597,10431741
+AIDS deaths,2006,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,192,5170411
+AIDS deaths,2006,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,31,2463199
+AIDS deaths,2006,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,46,2258903
+AIDS deaths,2006,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,122,3502711
+AIDS deaths,2006,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14,487,3488651
+AIDS deaths,2006,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,23,1122094
+AIDS deaths,2006,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.3,710,4645672
+AIDS deaths,2006,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.6,306,5447122
+AIDS deaths,2006,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,275,8354732
+AIDS deaths,2006,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,76,4255106
+AIDS deaths,2006,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.5,224,2357985
+AIDS deaths,2006,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4,192,4852675
+AIDS deaths,2006,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,9,794590
+AIDS deaths,2006,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,29,1442066
+AIDS deaths,2006,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,121,2021470
+AIDS deaths,2006,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,17,1103428
+AIDS deaths,2006,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.4,816,7145838
+AIDS deaths,2006,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,65,1585749
+AIDS deaths,2006,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.2,2459,16181461
+AIDS deaths,2006,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.3,457,7310397
+AIDS deaths,2006,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,5,536595
+AIDS deaths,2006,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,46926
+AIDS deaths,2006,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,295,9538583
+AIDS deaths,2006,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,98,2935449
+AIDS deaths,2006,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,97,3069036
+AIDS deaths,2006,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.6,697,10515895
+AIDS deaths,2006,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,19.6,628,3211903
+AIDS deaths,2006,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,37,895571
+AIDS deaths,2006,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.1,365,3598884
+AIDS deaths,2006,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,10,649336
+AIDS deaths,2006,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.7,337,5045626
+AIDS deaths,2006,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.6,1406,18603127
+AIDS deaths,2006,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.3,10,88859
+AIDS deaths,2006,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,37,1986102
+AIDS deaths,2006,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,10,530255
+AIDS deaths,2006,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.5,347,6342103
+AIDS deaths,2006,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,152,5285963
+AIDS deaths,2006,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,27,1534661
+AIDS deaths,2006,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,73,4643677
+AIDS deaths,2006,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,4,426103
+AIDS deaths,2007,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.3,242,3837215
+AIDS deaths,2007,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,14,553609
+AIDS deaths,2007,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,44574
+AIDS deaths,2007,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,186,5124349
+AIDS deaths,2007,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.9,114,2337084
+AIDS deaths,2007,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.4,1601,29511575
+AIDS deaths,2007,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,126,3973696
+AIDS deaths,2007,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.5,247,2914564
+AIDS deaths,2007,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.5,83,718782
+AIDS deaths,2007,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,64.2,324,504738
+AIDS deaths,2007,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.5,2232,15375064
+AIDS deaths,2007,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.8,828,7694977
+AIDS deaths,2007,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,5,130439
+AIDS deaths,2007,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,40,1068448
+AIDS deaths,2007,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,10,1201983
+AIDS deaths,2007,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.3,561,10498302
+AIDS deaths,2007,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,162,5209546
+AIDS deaths,2007,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,27,2475097
+AIDS deaths,2007,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,44,2272950
+AIDS deaths,2007,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,89,3534066
+AIDS deaths,2007,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.7,455,3591660
+AIDS deaths,2007,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,23,1125664
+AIDS deaths,2007,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.4,717,4670828
+AIDS deaths,2007,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,244,5485672
+AIDS deaths,2007,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,312,8352760
+AIDS deaths,2007,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,65,4292726
+AIDS deaths,2007,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.2,195,2374909
+AIDS deaths,2007,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,181,4895008
+AIDS deaths,2007,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,9,804066
+AIDS deaths,2007,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,35,1448820
+AIDS deaths,2007,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.8,120,2079404
+AIDS deaths,2007,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,14,1111726
+AIDS deaths,2007,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.5,751,7170556
+AIDS deaths,2007,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,48,1606742
+AIDS deaths,2007,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.5,2361,16270495
+AIDS deaths,2007,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.4,402,7460270
+AIDS deaths,2007,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.4,2,537657
+AIDS deaths,2007,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,45329
+AIDS deaths,2007,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,280,9574717
+AIDS deaths,2007,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,114,2962486
+AIDS deaths,2007,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,86,3116799
+AIDS deaths,2007,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.5,685,10570882
+AIDS deaths,2007,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.9,514,3241820
+AIDS deaths,2007,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,33,893190
+AIDS deaths,2007,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.1,372,3666592
+AIDS deaths,2007,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,12,656035
+AIDS deaths,2007,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6,309,5116074
+AIDS deaths,2007,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.9,1315,18957416
+AIDS deaths,2007,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.5,13,89481
+AIDS deaths,2007,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,33,2041637
+AIDS deaths,2007,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,4,532065
+AIDS deaths,2007,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5,318,6404953
+AIDS deaths,2007,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,155,5364844
+AIDS deaths,2007,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,49,1537640
+AIDS deaths,2007,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,75,4672248
+AIDS deaths,2007,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.2,1,433541
+AIDS deaths,2008,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.9,229,3870996
+AIDS deaths,2008,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,15,559346
+AIDS deaths,2008,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,45599
+AIDS deaths,2008,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,191,5235123
+AIDS deaths,2008,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.2,99,2357363
+AIDS deaths,2008,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5,1501,29836645
+AIDS deaths,2008,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,93,4049693
+AIDS deaths,2008,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.8,228,2932812
+AIDS deaths,2008,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.2,74,728265
+AIDS deaths,2008,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,56.5,287,508021
+AIDS deaths,2008,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.5,2100,15508944
+AIDS deaths,2008,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.6,753,7826920
+AIDS deaths,2008,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,4,132978
+AIDS deaths,2008,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,36,1077785
+AIDS deaths,2008,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,13,1223541
+AIDS deaths,2008,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.9,515,10563388
+AIDS deaths,2008,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.4,179,5246323
+AIDS deaths,2008,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,24,2486127
+AIDS deaths,2008,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,52,2290014
+AIDS deaths,2008,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,111,3559663
+AIDS deaths,2008,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.2,410,3648291
+AIDS deaths,2008,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,22,1129848
+AIDS deaths,2008,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.4,628,4697010
+AIDS deaths,2008,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,238,5531920
+AIDS deaths,2008,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,304,8335602
+AIDS deaths,2008,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,65,4327416
+AIDS deaths,2008,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.8,187,2389085
+AIDS deaths,2008,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,174,4934901
+AIDS deaths,2008,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,14,813046
+AIDS deaths,2008,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,23,1457464
+AIDS deaths,2008,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.8,123,2118616
+AIDS deaths,2008,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,13,1119153
+AIDS deaths,2008,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.1,729,7204858
+AIDS deaths,2008,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,62,1620429
+AIDS deaths,2008,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.8,2261,16332205
+AIDS deaths,2008,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.3,404,7607202
+AIDS deaths,2008,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,9,539992
+AIDS deaths,2008,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,42693
+AIDS deaths,2008,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,287,9592881
+AIDS deaths,2008,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,109,2985437
+AIDS deaths,2008,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,73,3159664
+AIDS deaths,2008,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.5,581,10618093
+AIDS deaths,2008,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,16.2,529,3272308
+AIDS deaths,2008,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,39,893608
+AIDS deaths,2008,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.7,325,3732320
+AIDS deaths,2008,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,10,661864
+AIDS deaths,2008,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.6,339,5169975
+AIDS deaths,2008,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.3,1211,19307235
+AIDS deaths,2008,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.3,12,90051
+AIDS deaths,2008,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,32,2086097
+AIDS deaths,2008,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,7,533825
+AIDS deaths,2008,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,302,6472126
+AIDS deaths,2008,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,148,5451257
+AIDS deaths,2008,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,39,1540309
+AIDS deaths,2008,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,70,4697333
+AIDS deaths,2008,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,3,439967
+AIDS deaths,2009,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.7,223,3898688
+AIDS deaths,2009,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,15,565800
+AIDS deaths,2009,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,46619
+AIDS deaths,2009,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,172,5316387
+AIDS deaths,2009,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,91,2374089
+AIDS deaths,2009,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,1408,30167113
+AIDS deaths,2009,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,118,4120964
+AIDS deaths,2009,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7,208,2951882
+AIDS deaths,2009,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.6,71,736007
+AIDS deaths,2009,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,40.9,211,515989
+AIDS deaths,2009,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.5,1952,15614290
+AIDS deaths,2009,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.3,815,7937181
+AIDS deaths,2009,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,3,135505
+AIDS deaths,2009,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,25,1083032
+AIDS deaths,2009,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,8,1238079
+AIDS deaths,2009,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.6,491,10626004
+AIDS deaths,2009,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,183,5279967
+AIDS deaths,2009,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,29,2496048
+AIDS deaths,2009,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,37,2305964
+AIDS deaths,2009,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,96,3583570
+AIDS deaths,2009,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.5,461,3680921
+AIDS deaths,2009,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,18,1130458
+AIDS deaths,2009,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,12.5,593,4733633
+AIDS deaths,2009,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.5,249,5580663
+AIDS deaths,2009,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,238,8324039
+AIDS deaths,2009,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,82,4358038
+AIDS deaths,2009,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7,168,2397287
+AIDS deaths,2009,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,187,4962937
+AIDS deaths,2009,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,7,818891
+AIDS deaths,2009,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,28,1467198
+AIDS deaths,2009,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.9,104,2141833
+AIDS deaths,2009,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,18,1124301
+AIDS deaths,2009,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.8,636,7249862
+AIDS deaths,2009,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,41,1636757
+AIDS deaths,2009,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.1,2152,16409802
+AIDS deaths,2009,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.6,429,7713809
+AIDS deaths,2009,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,4,543743
+AIDS deaths,2009,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,39735
+AIDS deaths,2009,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,279,9616569
+AIDS deaths,2009,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.4,102,3014967
+AIDS deaths,2009,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,78,3197425
+AIDS deaths,2009,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.5,588,10659191
+AIDS deaths,2009,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.4,474,3301837
+AIDS deaths,2009,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.6,41,894466
+AIDS deaths,2009,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.4,318,3780746
+AIDS deaths,2009,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,9,667951
+AIDS deaths,2009,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.2,321,5219117
+AIDS deaths,2009,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.5,1270,19664635
+AIDS deaths,2009,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.3,12,90545
+AIDS deaths,2009,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,29,2126805
+AIDS deaths,2009,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,5,535123
+AIDS deaths,2009,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,306,6543736
+AIDS deaths,2009,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,164,5532584
+AIDS deaths,2009,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,32,1544706
+AIDS deaths,2009,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,93,4722053
+AIDS deaths,2009,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,5,447838
+AIDS deaths,2010,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5,199,3980284
+AIDS deaths,2010,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,11,577833
+AIDS deaths,2010,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,1,42467
+AIDS deaths,2010,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,169,5230467
+AIDS deaths,2010,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,89,2408404
+AIDS deaths,2010,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.2,1282,30766211
+AIDS deaths,2010,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,116,4152448
+AIDS deaths,2010,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.1,183,3014246
+AIDS deaths,2010,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.2,62,753123
+AIDS deaths,2010,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,42.4,225,530823
+AIDS deaths,2010,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.8,1724,16022438
+AIDS deaths,2010,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.2,726,7914303
+AIDS deaths,2010,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,121336
+AIDS deaths,2010,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,34,1144107
+AIDS deaths,2010,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,12,1257069
+AIDS deaths,2010,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.1,546,10624357
+AIDS deaths,2010,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,149,5340899
+AIDS deaths,2010,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,21,2526676
+AIDS deaths,2010,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,40,2329710
+AIDS deaths,2010,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,96,3610654
+AIDS deaths,2010,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.9,369,3737733
+AIDS deaths,2010,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,20,1137750
+AIDS deaths,2010,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11,530,4829993
+AIDS deaths,2010,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,229,5572083
+AIDS deaths,2010,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,251,8247464
+AIDS deaths,2010,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,70,4388698
+AIDS deaths,2010,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.3,153,2428898
+AIDS deaths,2010,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,179,4977206
+AIDS deaths,2010,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,11,830973
+AIDS deaths,2010,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,28,1494459
+AIDS deaths,2010,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,104,2224245
+AIDS deaths,2010,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,20,1120179
+AIDS deaths,2010,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.9,655,7349103
+AIDS deaths,2010,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,47,1690370
+AIDS deaths,2010,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.8,1934,16363648
+AIDS deaths,2010,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.4,424,7907452
+AIDS deaths,2010,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,4,565680
+AIDS deaths,2010,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,41255
+AIDS deaths,2010,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,215,9612240
+AIDS deaths,2010,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,84,3079826
+AIDS deaths,2010,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,82,3217963
+AIDS deaths,2010,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.2,560,10760882
+AIDS deaths,2010,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14,435,3102898
+AIDS deaths,2010,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,32,897912
+AIDS deaths,2010,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.6,294,3857673
+AIDS deaths,2010,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,7,668164
+AIDS deaths,2010,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.4,287,5283840
+AIDS deaths,2010,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.8,1177,20238957
+AIDS deaths,2010,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.5,4,88280
+AIDS deaths,2010,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,21,2119673
+AIDS deaths,2010,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,14,537213
+AIDS deaths,2010,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,246,6694278
+AIDS deaths,2010,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,127,5608355
+AIDS deaths,2010,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,17,1578819
+AIDS deaths,2010,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,74,4738804
+AIDS deaths,2010,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,7,465144
+AIDS deaths,2011,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.8,190,3999581
+AIDS deaths,2011,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,12,585275
+AIDS deaths,2011,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,42557
+AIDS deaths,2011,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,155,5301492
+AIDS deaths,2011,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4,98,2424899
+AIDS deaths,2011,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,1324,31123020
+AIDS deaths,2011,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,104,4219690
+AIDS deaths,2011,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.1,184,3030784
+AIDS deaths,2011,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.5,57,761127
+AIDS deaths,2011,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,39.6,215,542614
+AIDS deaths,2011,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.7,1740,16267311
+AIDS deaths,2011,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.1,648,8012727
+AIDS deaths,2011,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,4,122042
+AIDS deaths,2011,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,34,1155073
+AIDS deaths,2011,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,12,1271014
+AIDS deaths,2011,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.2,453,10663830
+AIDS deaths,2011,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,168,5372445
+AIDS deaths,2011,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,28,2542679
+AIDS deaths,2011,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,41,2341215
+AIDS deaths,2011,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,93,3631231
+AIDS deaths,2011,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.8,407,3766483
+AIDS deaths,2011,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,15,1140952
+AIDS deaths,2011,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.7,521,4882338
+AIDS deaths,2011,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.9,222,5622178
+AIDS deaths,2011,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,245,8267436
+AIDS deaths,2011,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,72,4424842
+AIDS deaths,2011,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.3,154,2439295
+AIDS deaths,2011,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,155,4996767
+AIDS deaths,2011,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,7,837672
+AIDS deaths,2011,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,19,1504863
+AIDS deaths,2011,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5,112,2242471
+AIDS deaths,2011,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,12,1125258
+AIDS deaths,2011,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.2,609,7393507
+AIDS deaths,2011,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,45,1703962
+AIDS deaths,2011,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.4,1882,16480850
+AIDS deaths,2011,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,375,7997623
+AIDS deaths,2011,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,4,574118
+AIDS deaths,2011,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,40163
+AIDS deaths,2011,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,234,9635302
+AIDS deaths,2011,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,93,3103616
+AIDS deaths,2011,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,87,3250133
+AIDS deaths,2011,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.8,522,10801926
+AIDS deaths,2011,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,13.2,408,3082359
+AIDS deaths,2011,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.2,38,898226
+AIDS deaths,2011,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.3,286,3894969
+AIDS deaths,2011,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,4,674675
+AIDS deaths,2011,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.6,243,5327989
+AIDS deaths,2011,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.3,1097,20603899
+AIDS deaths,2011,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.3,10,88341
+AIDS deaths,2011,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,15,2156144
+AIDS deaths,2011,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,5,539169
+AIDS deaths,2011,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,248,6772116
+AIDS deaths,2011,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,139,5681716
+AIDS deaths,2011,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,33,1580491
+AIDS deaths,2011,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,78,4763619
+AIDS deaths,2011,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.9,4,468236
+AIDS deaths,2012,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.1,204,4019427
+AIDS deaths,2012,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,8,593469
+AIDS deaths,2012,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,42554
+AIDS deaths,2012,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,170,5387372
+AIDS deaths,2012,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,73,2436498
+AIDS deaths,2012,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,1295,31483585
+AIDS deaths,2012,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,89,4290558
+AIDS deaths,2012,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.7,173,3042619
+AIDS deaths,2012,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.5,73,770084
+AIDS deaths,2012,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,34.3,190,553201
+AIDS deaths,2012,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.2,1691,16500338
+AIDS deaths,2012,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.2,666,8120705
+AIDS deaths,2012,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,1,122894
+AIDS deaths,2012,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,43,1167095
+AIDS deaths,2012,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,17,1284749
+AIDS deaths,2012,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4,433,10697291
+AIDS deaths,2012,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,148,5401158
+AIDS deaths,2012,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,35,2554546
+AIDS deaths,2012,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,39,2357726
+AIDS deaths,2012,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,88,3649527
+AIDS deaths,2012,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.4,393,3795203
+AIDS deaths,2012,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,16,1144012
+AIDS deaths,2012,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.8,534,4927390
+AIDS deaths,2012,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.9,222,5671921
+AIDS deaths,2012,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,266,8297172
+AIDS deaths,2012,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,69,4457498
+AIDS deaths,2012,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.1,149,2450554
+AIDS deaths,2012,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.1,154,5017811
+AIDS deaths,2012,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.4,3,844719
+AIDS deaths,2012,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,20,1516690
+AIDS deaths,2012,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.1,138,2279948
+AIDS deaths,2012,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,18,1131785
+AIDS deaths,2012,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.3,539,7433946
+AIDS deaths,2012,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,44,1713559
+AIDS deaths,2012,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.7,1775,16569459
+AIDS deaths,2012,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.5,365,8097120
+AIDS deaths,2012,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.5,3,586504
+AIDS deaths,2012,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,39540
+AIDS deaths,2012,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,241,9659352
+AIDS deaths,2012,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,94,3131837
+AIDS deaths,2012,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,88,3283713
+AIDS deaths,2012,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.4,478,10839448
+AIDS deaths,2012,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.7,327,3058682
+AIDS deaths,2012,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.8,34,900525
+AIDS deaths,2012,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.7,265,3942817
+AIDS deaths,2012,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,7,683443
+AIDS deaths,2012,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.8,260,5384408
+AIDS deaths,2012,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.2,1101,21000486
+AIDS deaths,2012,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,14.7,13,88279
+AIDS deaths,2012,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,21,2194417
+AIDS deaths,2012,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,3,540013
+AIDS deaths,2012,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,254,6848994
+AIDS deaths,2012,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,131,5751359
+AIDS deaths,2012,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,32,1582264
+AIDS deaths,2012,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,67,4786301
+AIDS deaths,2012,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.2,1,476550
+AIDS deaths,2013,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,189,4041474
+AIDS deaths,2013,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,15,600000
+AIDS deaths,2013,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,42658
+AIDS deaths,2013,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,162,5468760
+AIDS deaths,2013,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.4,84,2448109
+AIDS deaths,2013,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4,1269,31851578
+AIDS deaths,2013,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2,89,4369989
+AIDS deaths,2013,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5,154,3055295
+AIDS deaths,2013,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.8,61,778905
+AIDS deaths,2013,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,26.1,147,563341
+AIDS deaths,2013,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10,1666,16735763
+AIDS deaths,2013,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.4,609,8202771
+AIDS deaths,2013,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,2,124014
+AIDS deaths,2013,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,27,1181048
+AIDS deaths,2013,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,10,1302553
+AIDS deaths,2013,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.7,395,10737310
+AIDS deaths,2013,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.8,152,5438734
+AIDS deaths,2013,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,36,2570127
+AIDS deaths,2013,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,43,2369344
+AIDS deaths,2013,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,87,3668551
+AIDS deaths,2013,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.2,353,3821710
+AIDS deaths,2013,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.9,22,1146451
+AIDS deaths,2013,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10,495,4972883
+AIDS deaths,2013,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.9,221,5726663
+AIDS deaths,2013,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,203,8328488
+AIDS deaths,2013,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,66,4496516
+AIDS deaths,2013,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7,173,2462464
+AIDS deaths,2013,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,148,5042343
+AIDS deaths,2013,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,12,852864
+AIDS deaths,2013,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.4,22,1528794
+AIDS deaths,2013,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.9,113,2316053
+AIDS deaths,2013,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,9,1136350
+AIDS deaths,2013,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.6,571,7476496
+AIDS deaths,2013,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,40,1719786
+AIDS deaths,2013,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.3,1719,16661779
+AIDS deaths,2013,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,387,8202817
+AIDS deaths,2013,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,4,602550
+AIDS deaths,2013,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,39447
+AIDS deaths,2013,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,216,9694350
+AIDS deaths,2013,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,104,3162200
+AIDS deaths,2013,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.7,90,3315289
+AIDS deaths,2013,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.7,510,10864571
+AIDS deaths,2013,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,10.5,320,3040676
+AIDS deaths,2013,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.3,30,902552
+AIDS deaths,2013,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.4,255,3992236
+AIDS deaths,2013,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.4,3,692085
+AIDS deaths,2013,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.6,247,5427571
+AIDS deaths,2013,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.9,1042,21381506
+AIDS deaths,2013,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.7,5,88208
+AIDS deaths,2013,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,18,2238887
+AIDS deaths,2013,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,7,541919
+AIDS deaths,2013,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.6,249,6921950
+AIDS deaths,2013,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,129,5822462
+AIDS deaths,2013,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,27,1580517
+AIDS deaths,2013,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,72,4811361
+AIDS deaths,2013,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.2,6,481951
+AIDS deaths,2014,Alabama,1,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.2,212,4061866
+AIDS deaths,2014,Alaska,2,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.7,10,600014
+AIDS deaths,2014,American Samoa,60,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,42741
+AIDS deaths,2014,Arizona,4,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.6,142,5567075
+AIDS deaths,2014,Arkansas,5,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,85,2459524
+AIDS deaths,2014,California,6,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.1,1336,32232923
+AIDS deaths,2014,Colorado,8,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.2,99,4452686
+AIDS deaths,2014,Connecticut,9,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.5,168,3060414
+AIDS deaths,2014,Delaware,10,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.5,59,789709
+AIDS deaths,2014,District of Columbia,11,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,15.4,88,570359
+AIDS deaths,2014,Florida,12,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.5,1620,17026263
+AIDS deaths,2014,Georgia,13,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,7.4,617,8309955
+AIDS deaths,2014,Guam,66,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,1,125318
+AIDS deaths,2014,Hawaii,15,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.9,34,1191886
+AIDS deaths,2014,Idaho,16,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.1,15,1324192
+AIDS deaths,2014,Illinois,17,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.2,349,10755052
+AIDS deaths,2014,Indiana,18,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,132,5471018
+AIDS deaths,2014,Iowa,19,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,47,2586386
+AIDS deaths,2014,Kansas,20,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,30,2380387
+AIDS deaths,2014,Kentucky,21,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,86,3685384
+AIDS deaths,2014,Louisiana,22,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,8.8,339,3843767
+AIDS deaths,2014,Maine,23,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.7,8,1149983
+AIDS deaths,2014,Maryland,24,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.2,460,5008827
+AIDS deaths,2014,Massachusetts,25,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,203,5776963
+AIDS deaths,2014,Michigan,26,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,189,8359425
+AIDS deaths,2014,Minnesota,27,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.6,71,4531386
+AIDS deaths,2014,Mississippi,28,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.8,169,2469415
+AIDS deaths,2014,Missouri,29,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,127,5066524
+AIDS deaths,2014,Montana,30,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.8,7,860732
+AIDS deaths,2014,Nebraska,31,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.3,20,1541529
+AIDS deaths,2014,Nevada,32,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.6,108,2361355
+AIDS deaths,2014,New Hampshire,33,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,7,1144106
+AIDS deaths,2014,New Jersey,34,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.8,514,7515527
+AIDS deaths,2014,New Mexico,35,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3,52,1723181
+AIDS deaths,2014,New York,36,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,9.6,1605,16729839
+AIDS deaths,2014,North Carolina,37,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.6,383,8303063
+AIDS deaths,2014,North Dakota,38,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1,6,614240
+AIDS deaths,2014,Northern Mariana Islands,69,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0,0,39636
+AIDS deaths,2014,Ohio,39,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.1,209,9730431
+AIDS deaths,2014,Oklahoma,40,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,113,3185397
+AIDS deaths,2014,Oregon,41,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.3,77,3357098
+AIDS deaths,2014,Pennsylvania,42,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.5,487,10884303
+AIDS deaths,2014,Puerto Rico,72,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,11.6,349,3009271
+AIDS deaths,2014,Rhode Island,44,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,3.5,32,905810
+AIDS deaths,2014,South Carolina,45,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,6.2,252,4050984
+AIDS deaths,2014,South Dakota,46,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.4,3,698428
+AIDS deaths,2014,Tennessee,47,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,4.3,238,5479001
+AIDS deaths,2014,Texas,48,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5,1095,21812343
+AIDS deaths,2014,U.S. Virgin Islands,78,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,5.7,5,87992
+AIDS deaths,2014,Utah,49,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,14,2278603
+AIDS deaths,2014,Vermont,50,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.6,3,542505
+AIDS deaths,2014,Virginia,51,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.5,173,6983178
+AIDS deaths,2014,Washington,53,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,2.4,139,5906109
+AIDS deaths,2014,West Virginia,54,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.8,28,1577425
+AIDS deaths,2014,Wisconsin,55,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,1.5,71,4833741
+AIDS deaths,2014,Wyoming,56,All races/ethnicities,Both sexes,Ages 13 years and older,All transmission categories,0.4,2,482646
